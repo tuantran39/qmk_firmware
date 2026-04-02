@@ -1,0 +1,10 @@
+{
+    "manufacturer": "Bateer",
+    "maintainer": "tuantran39",
+    "url": "https://github.com/tuantran39",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "usb": {
+        "vid": "0x1302"
+    }
+}
